@@ -24,7 +24,6 @@ Trained on the dataset:
 <img width="1047" height="61" alt="image" src="https://github.com/user-attachments/assets/670dd231-e528-4c86-b69e-ee49c0a507c5" />
 
 ## 📁 Project Structure
-    ```plaintext
     Neural-Network/
         ├── insurance_data.csv     # Insurance small dataset
         ├── NN_from_Scratch.ipynb  # Jupyter Notebook
@@ -40,7 +39,6 @@ Trained on the dataset:
 - sklearn
 
 ## ▶️ How to run
-    ```bash
     python NN_from_Scratch.ipynb
 
 
